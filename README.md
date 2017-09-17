@@ -9,3 +9,9 @@ List of topics:
 
 ## Links
 [put words you want say in square brackets]and put the URL in paratheses:(https://github.com/huyinan/City-Bike-Dataset)
+## Add images
+You can include inline code like 'python'
+You can also include inline code blocks like:
+...
+git push origin master
+...
